@@ -1338,7 +1338,7 @@ export const dailyWordsSmall = [
     'CAPUT', 'CASTE', 'CATTY', 'CAVIL', 'CEASE', 'CELLO', 'CHAFF', 'CHAIR',
     'CHASM', 'CHESS', 'CHICK', 'CHIDE', 'CHILI', 'CHINA',
     'CHIRP', 'CHUCK', 'CHUMP', 'CHURN', 'CIVIL', 'CLACK', 'CLAIM',
-    'CLAMP', 'CLANG', 'CLANK', 'CLASH', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
+    'CLAMP', 'CLANG', 'CLANK', 'CLASP', 'CLEAT', 'CLIFF', 'CLINK', 
     'CLOUT', 'CLUED', 'CLUMP', 'CLUNG', 'COBRA', 'COLOR', 'COMFY', 'COMIC', 'CONCH',
     'COPSE', 'CORAL', 'COUCH', 'COUGH', 'COUPE', 'COVEN', 'COVEY', 'CRACK', 
     'CRASH', 'CREED', 'CREEK', 'CREEP', 'CREME', 'CRESS',
@@ -1440,7 +1440,7 @@ export const dailyWordsSmall = [
     'VAUNT', 'VEGAN', 'VENUE', 'VERSO', 'VICAR', 'VIGIL', 
     'VIPER', 'VIRUS', 'VISIT', 'VISTA', 'VIXEN', 'VOCAL', 'VOGUE', 
     'VOMIT', 'VOWEL', 'WAGER', 'WAIST', 'WAIVE', 'WARTY', 'WATER',
-    'WAVER', 'WAXEN', 'WEAVE', 'WEEDY', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
+    'WAVER', 'WAXEN', 'WEAVE', 'WEIGH', 'WELCH', 'WELSH', 'WHARF', 
     'WHITE', 'WHOLE', 'WHOSE', 'WIDER', 'WIDOW', 'WIDTH', 'WIELD', 'WIGHT',
     'WILLY', 'WIMPY', 'WINCH', 'WISER', 'WISPY', 'WITTY', 'WOMEN', 'WOODY', 'WOOLY',
     'WOOZY', 'WORTH', 'WOUND', 'WRACK', 'WRECK', 'WREST', 'WRING', 'WRYLY', 'YEAST',
@@ -1651,7 +1651,7 @@ export const dailyWordsLarge = [
     'CIRLS', 'CIRRI', 'CISCO', 'CISSY', 'CISTS', 'CITAL', 'CITED', 'CITER', 'CITES', 'CIVES',
     'CIVET', 'CIVIE', 'CIVIL', 'CIVVY', 'CLACH', 'CLACK', 'CLADE', 'CLADS', 'CLAES',
     'CLAGS', 'CLAIM', 'CLAME', 'CLAMP', 'CLAMS', 'CLANG', 'CLANK', 'CLANS', 'CLAPS', 'CLAPT',
-    'CLARO', 'CLART', 'CLARY', 'CLASH', 'CLASP', 'CLAST', 'CLATS', 'CLAUT', 'CLAVE',
+    'CLARO', 'CLART', 'CLARY', 'CLASP', 'CLAST', 'CLATS', 'CLAUT', 'CLAVE',
     'CLAVI', 'CLAWS', 'CLAYS', 'CLEAT', 'CLECK', 'CLEEK', 'CLEEP', 'CLEFS',
     'CLEGS', 'CLEIK', 'CLEMS', 'CLEPE', 'CLEPT', 'CLEVE', 'CLEWS',
     'CLIED', 'CLIES', 'CLIFF', 'CLIFT', 'CLIME', 'CLINE', 'CLINK', 'CLINT',
@@ -2696,7 +2696,7 @@ export const dailyWordsLarge = [
     'WAUFF', 'WAUGH', 'WAUKS', 'WAULK', 'WAULS', 'WAURS', 'WAVED', 'WAVER', 'WAVES', 'WAVEY',
     'WAWAS', 'WAWES', 'WAWLS', 'WAXED', 'WAXEN', 'WAXER', 'WAXES', 'WAYED', 'WAZIR', 'WAZOO',
     'WEALD', 'WEALS', 'WEAMB', 'WEANS', 'WEARS', 'WEAVE', 'WEBBY', 'WEBER', 'WECHT',
-    'WEDEL', 'WEDGY', 'WEEDS', 'WEEDY', 'WEEKE', 'WEEKS', 'WEELS', 'WEEMS', 'WEENS',
+    'WEDEL', 'WEDGY', 'WEEDS', 'WEEKE', 'WEEKS', 'WEELS', 'WEEMS', 'WEENS',
     'WEENY', 'WEEPS', 'WEEPY', 'WEEST', 'WEETE', 'WEETS', 'WEFTE', 'WEFTS', 'WEIDS', 'WEIGH',
     'WEILS', 'WEIRS', 'WEISE', 'WEIZE', 'WEKAS', 'WELCH', 'WELDS', 'WELKE', 'WELKS',
     'WELKT', 'WELLS', 'WELLY', 'WELSH', 'WELTS', 'WEMBS', 'WENCH', 'WENDS', 'WENGE', 'WENNY',
@@ -11204,6 +11204,18 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1406,
       },
+      {
+        word: "CLASH",
+        gameDate: "4/26/25",
+        myScore: 3,
+        wordNumber: 1407,
+      },
+      {
+        word: "WEEDY",
+        gameDate: "4/27/25",
+        myScore: 4,
+        wordNumber: 1408,
+      },
   
   ];
 
@@ -11213,6 +11225,6 @@ export const letterValues = {
     S: 1, T: 1, U: 1, V: 4, W: 4, X: 8, Y: 4, Z: 10
 };
 console.log("this works fucking great");
-console.log("real eefin nice like")
+console.log("real eefin nice like, Girl!")
 
 
