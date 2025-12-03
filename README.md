@@ -1,1 +1,1 @@
-The Original Scrabble Deals  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+The Original Scrabble Deals  """""""""""""""""""""""""""'
