@@ -73,7 +73,7 @@ function getScoreMessage(totalScore) {
     if (totalScore <= 10) return "Still weak, but you're trying.";
     if (totalScore <= 15) return "Okay! You're playing some scrabble now.";
     if (totalScore <= 20) return "Pushing it! Are you hoarding tiles?";
-    return "You're unstoppable... or are you cheating, STOKE FUCKLER?";
+    return "You're unstoppable... or are you cheating, FORTH FUCKLER?";
 }
 
 // Attach filtering and scoring functionality on page load
