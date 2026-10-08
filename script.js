@@ -27,7 +27,7 @@ function calculateScore() {
     scoreMessageEl.innerText = ""; // Clear message
 
     if (!dailyWordsLarge.includes(input)) {
-        totalScoreEl.innerText = ` The word "${input}" is no longer in this word list! It is probably a used Wordle word!`;
+        totalScoreEl.innerText = ` The word "${input}" is NO longer in this word list! It is probably a used Wordle word!`;
         return;
     }
 
