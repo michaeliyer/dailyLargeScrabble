@@ -27,7 +27,7 @@ function calculateScore() {
     scoreMessageEl.innerText = ""; // Clear message
 
     if (!dailyWordsLarge.includes(input)) {
-        totalScoreEl.innerText = ` The word "${input}" is NO LONGER in this word list! It is probably a used Wordle word!`;
+        totalScoreEl.innerText = ` The word "${input}" is NO LONGER in this WORD list! It is probably a used Wordle word!`;
         return;
     }
 
@@ -73,7 +73,7 @@ function getScoreMessage(totalScore) {
     if (totalScore <= 10) return "Still weak, but you're trying.";
     if (totalScore <= 15) return "Okay! You're playing some scrabble now.";
     if (totalScore <= 20) return "Pushing it! Are you hoarding tiles?";
-    return "You're unstoppable... or are you cheating, STREW FUCKLER?";
+    return "You're unstoppable... or are you cheating, BUMPY FUCKLER?";
 }
 
 // Attach filtering and scoring functionality on page load
